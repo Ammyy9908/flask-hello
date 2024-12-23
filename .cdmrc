@@ -1,0 +1,8 @@
+# terminals
+terminals:
+    [
+        `bash setup.sh`
+    ]
+# other config
+tabs: ['app.py']
+run-button: python3 app.py
